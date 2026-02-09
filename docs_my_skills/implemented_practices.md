@@ -7,4 +7,5 @@
 | Дата | Источник (Книга/Статья) | Цель (Проект/Задача) | Описание практики | Статус |
 | :--- | :--- | :--- | :--- | :--- |
 | 2026-02-09 | "The Complete Guide to Building Skills" | OpenClaw Skills | Внедрена структура Skills (Progressive Disclosure) для этого маппера. | Внедрено |
+| 2026-02-09 | "Explicit Resource Management in JS" | toshik-babe (Core) | Рекомендовано заменить try-finally на `using`/`await using` для ресурсов. | В планах |
 | 2026-02-09 | "AI Engineering" (Chip Huyen) | toshik-babe (RAG) | Подготовка к внедрению LLM-as-a-judge для оценки ответов бэкенда. | В планах |
