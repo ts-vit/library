@@ -19,6 +19,7 @@
 | **Промт-инжиниринг для LLM** | Berryman, Ziegler | [prompt-engineering](./prompt-engineering) |
 | **Explicit Resource Management in JS** | Matt Smith | [javascript-explicit-resource-management](./javascript-explicit-resource-management) |
 | **Building GPT from Scratch** | Andrej Karpathy | [building-gpt](./building-gpt) |
+| **How to write a good spec for AI agents** | Addy Osmani | [articles](./articles) |
 | **Karpathy AI Full Guide** | Andrej Karpathy | [karpathy-ai](./karpathy-ai) |
 | **Evening Habits for Weight Loss** | — | [health-habits](./health-habits) |
 | **One Month Nutrition Plan** | — | [nutrition-plan](./nutrition-plan) |
